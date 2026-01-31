@@ -130,29 +130,13 @@ elif menu == "Contact":
     st.write(" **Email:** mngadisimphiwe58@gmail.com")
     st.write(" **Location:** KwaZulu-Natal, South Africa")
 
-    st.markdown(
-        """
-        <a href="mailto:mngadisimphiwe58@gmail.com">
-            <button style="
-                background-color:#2563eb;
-                color:white;
-                padding:10px 20px;
-                border:none;
-                border-radius:6px;
-                font-size:16px;
-                cursor:pointer;">
-                📧 Contact Me
-            </button>
-        </a>
-        """,
-        unsafe_allow_html=True
-    )
-
+    
 
     st.markdown("""
     🔗 **Links**
     - [GitHub](https://github.com/Simphiwemngadi)
     - [LinkedIn](https://www.linkedin.com/in/simphiwe-mngadi-745a23266/)
     """)
+
 
 
