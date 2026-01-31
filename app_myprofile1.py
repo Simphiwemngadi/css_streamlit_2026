@@ -106,14 +106,14 @@ elif menu == "About":
 elif menu == "Projects":
     st.header("Projects")
 
-    st.subheader("📊 Sales Interactive Dashboard | SQL & Power BI")
+    st.subheader("Sales Interactive Dashboard | SQL & Power BI")
     st.write("""
     - Identified products with gross margin below 30% using SQL  
     - Built interactive Power BI dashboards for revenue and margin analysis  
     - Provided data-driven pricing recommendations
     """)
 
-    st.subheader("👥 Customer Segmentation | Python")
+    st.subheader("Customer Segmentation | Python")
     st.write("""
     - Performed EDA on demographic and economic data  
     - Applied K-Means clustering with elbow-method optimisation  
@@ -126,12 +126,13 @@ elif menu == "Projects":
 elif menu == "Contact":
     st.header("Contact")
 
-    st.write("📞 **Phone:** 067 976 8625")
-    st.write("📧 **Email:** mngadisimphiwe58@gmail.com")
-    st.write("📍 **Location:** KwaZulu-Natal, South Africa")
+    st.write(" **Phone:** 067 976 8625")
+    st.write(" **Email:** mngadisimphiwe58@gmail.com")
+    st.write(" **Location:** KwaZulu-Natal, South Africa")
 
     st.markdown("""
     🔗 **Links**
     - [GitHub](https://github.com/Simphiwemngadi)
     - [LinkedIn](https://www.linkedin.com/in/simphiwe-mngadi-745a23266/)
     """)
+
